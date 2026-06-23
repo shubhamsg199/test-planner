@@ -32,8 +32,6 @@ It follows Robottelo conventions automatically: naming (`test_positive_*` / `tes
 | File | Purpose |
 |------|---------|
 | [`SKILL.md`](SKILL.md) | Skill definition — the workflow the agent follows |
-| [`RESEARCH.md`](RESEARCH.md) | Spike findings — feasibility analysis and architecture options |
-| [`examples/sample_test_plan.md`](examples/sample_test_plan.md) | Sample output — test plan for ACS management (35 scenarios) |
 
 ## Limitations
 
